@@ -1,5 +1,5 @@
 GameCode,Scenario,CoverageResetThreshold,WorldRep,Map,MapScale,GuardPatrolPlanner,GuardChasePlanner,GuardSearchPlanner,GuardsCount,PathFindingHeursitic,PathFollowing,IntudersCount,IntruderPlanner,PathFindingHeursitic,PathFollowing
-,Chase,100,Continuous,dragon_age_brc202d,1,Stalest,Simple,RmPropSimple,1,EuclideanDst,SimpleFunnel,1,RandomMoving,EuclideanDst,SimpleFunnel
+,Chase,100,Continuous,dragon_age_brc202d,1,Stalest,Simple,RmPropSimple,3,EuclideanDst,SimpleFunnel,2,RandomMoving,EuclideanDst,SimpleFunnel
 ,Chase,100,Continuous,dragon_age_brc202d,1,Stalest,Simple,RmPropSimple,2,EuclideanDst,SimpleFunnel,1,RandomMoving,EuclideanDst,SimpleFunnel
 ,Chase,100,Continuous,dragon_age_brc202d,1,Stalest,Simple,RmPropSimple,3,EuclideanDst,SimpleFunnel,1,RandomMoving,EuclideanDst,SimpleFunnel
 ,Chase,100,Continuous,dragon_age_brc202d,1,Stalest,Simple,RmPropSimple,4,EuclideanDst,SimpleFunnel,1,RandomMoving,EuclideanDst,SimpleFunnel
