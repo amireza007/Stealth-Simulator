@@ -36,7 +36,7 @@ This scenario tests the ability of an agent to navigate through an environment u
 
 ## Create custom sessions
 
-You can define custom sessions to test different behaviors. You need to load the session into the list of sessions to be loaded in the game; they are loaded in GameManager.LoadSavedSessions(). 
+You can define custom sessions to test different behaviors. You need to load the session into the list of sessions to be loaded in the game; they are loaded in GameManager.LoadSavedSessions(). (_Custom Session classes are located in ./Assets/Resources/Scripts/Main/SessionSetups/_)
 
 You can create a session to define a scenario by using its class constructor which takes:
 
